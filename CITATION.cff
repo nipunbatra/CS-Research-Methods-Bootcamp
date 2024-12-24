@@ -4,8 +4,11 @@ title: "Research Methods in Computer Science"
 authors:
   - family-names: "Batra"
     given-names: "Nipun"
-    orcid: "https://orcid.org/0000-0002-0736-7169" # Optional
+    orcid: "https://orcid.org/0000-0002-0736-7169"
 date-released: 2018-08-01
 version: "1.0.0"
 url: "https://nipunbatra.github.io/CS-Research-Methods-Bootcamp/"
 repository-code: "https://github.com/nipunbatra/CS-Research-Methods-Bootcamp"
+abstract: >
+  This repository contains material from a 2-hour bootcamp on research methods in Computer Science. The sessions covered email writing, paper abstracts, 
+  scientific thinking, and debugging.
